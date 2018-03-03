@@ -14,29 +14,16 @@ Author: theanh
 Name: Barmoj
 
 Package: com.mrbom.pikabu
-Version: v 1.0
 Architecture: iphoneos-arm
-Maintainer: Mrbom
-Filename: /com.mrbom.pikabu_1.0.1_iphoneos-arm.deb
+Version: v 1.0
+Section: Tweaks
+Maintainer: mrbom
+Depends: mobilesubstrate
+Filename: ./com.mrbom.pikabu_1.0.1_iphoneos-arm.deb
 Size: 292258
 MD5sum: f3f68ad0568a60ff99df6f6dc047ef7d
-SHA1: b553b5e70ec8960941878f9e0582f52a8025c687
-SHA256: 8639264652ab4eafb2d40c49c3d04d1d7e73b954cfdc9deeb6a1ba1c093522a0
-Section: Tweaks
-Description: 
-Author: theanh
-Name: Pikabu
-
-Package: com.mrbom.pikabu
-Version: v 1.0
-Architecture: iphoneos-arm
-Maintainer: Mrbom
-Filename: /com.mrbom.pikabu_1.0.1_iphoneos-arm.deb
-Size: 292258
-MD5sum: f3f68ad0568a60ff99df6f6dc047ef7d
-SHA1: b553b5e70ec8960941878f9e0582f52a8025c687
-SHA256: 8639264652ab4eafb2d40c49c3d04d1d7e73b954cfdc9deeb6a1ba1c093522a0
-Section: Tweaks
-Description: 
-Author: theanh
-Name: Pikabu
+Homepage: http://twitter.com/theanhst92
+Description: ADs Blocker for Apps.. Note: may not load page or app crash.
+Name: Pikapu
+Author: Mrbom
+Depiction: http://mrbom.github.io/description.html?id=com.mrbom.pikabu
