@@ -1,0 +1,8 @@
+{
+	"name": "Pikapu",
+	"desc_short": "theanhst92",
+	"desc_long": "Use Brightness Level As Alert.<br><br>Configure Options from Settings.",
+	"compatitle": "iOS 11.x",
+	"changelog": "<strong>1.0.1</strong><br>+ Support iOS 11.<br>",
+	"screenshot": null,
+}
