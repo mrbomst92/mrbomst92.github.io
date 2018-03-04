@@ -1,0 +1,9 @@
+Origin: A MrBom's Repo
+Label: Mr Bờm
+Suite: stable
+Version: 1.0
+Codename: Mrbom
+Architecture: iphoneos-arm
+Components: main
+Description: Mrbom's Tweaks
+MD5Sum:
