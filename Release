@@ -1,11 +1,11 @@
-Origin: julioverne's Repo
-Label: julioverne
+Origin: A Mr Bờm's Repo
+Label: Mrbomst92
 Suite: stable
 Version: 1.0
-Codename: julioverne
+Codename: Mrbomst92
 Architecture: iphoneos-arm
 Components: main
-Description: julioverne's Tweaks
+Description: Mrbomst92's Tweaks
 MD5Sum:
 F4ABACE3201C94CA73A13E28C35E04C9 26416 Packages
 380D108F4566DCA7250B63E1CEC77778 4768 Packages.bz2
