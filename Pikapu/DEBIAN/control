@@ -1,0 +1,10 @@
+Package: net.pikabu.kdog0598
+Name: Pikabu Lite
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Adds minimalistc volume hud to iPX or devices with Fluidity, LittleX, or FluidEnabler. Will remove this once the actual developer uploads his to a repo.
+Depiction:
+Homepage: https://twitter.com/chan_jeffrey
+Maintainer: Kieran Wilson
+Author: Jeffrey Chan
+Section: Tweaks
