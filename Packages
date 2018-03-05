@@ -1,0 +1,28 @@
+
+Package: com.mrbomst92.smartlpm
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: mrbomst92
+Filename: Debs/com.smokin1337.smartlpm_1.0.6_iphoneos-arm.deb
+Size: 15672
+MD5sum: 38e2afc4afafb7fc797cbef7ad59acf8
+SHA1: 68517a1f40ae0f541ed7f42659ead64bd8db55bd
+SHA256: 1389b2b972fcd40f5d4db12f1e7c6df943a5ae83c23422cb5e573382de4b05ba
+Section: Tweaks
+Description: A smarter low power mode. Turn low power mode on automatically at the battery level you specify. Turn on low power mode while device is locked
+Author: mrbomst92
+Name: SmartLPM
+
+Package: com.mrbomst92.smartlpm
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: mrbomst92
+Filename: Debs/com.smokin1337.smartlpm_1.0.6_iphoneos-arm.deb
+Size: 15672
+MD5sum: 38e2afc4afafb7fc797cbef7ad59acf8
+SHA1: 68517a1f40ae0f541ed7f42659ead64bd8db55bd
+SHA256: 1389b2b972fcd40f5d4db12f1e7c6df943a5ae83c23422cb5e573382de4b05ba
+Section: Tweaks
+Description: A smarter low power mode. Turn low power mode on automatically at the battery level you specify. Turn on low power mode while device is locked
+Author: mrbomst92
+Name: SmartLPM
