@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+            <key>cell</key>
+            <string>PSSwitchCell</string>
+            <key>label</key>
+            <string>Enabled</string>
+            <key>id</key>
+            <string>isEnabled</string>
+            <key>defaults</key>
+            <string>com.smokin1337.smartlpm</string>
+            <key>key</key>
+            <string>isEnabled</string>
+            <key>default</key>
+            <false/>
+            <key>PostNotification</key>
+            <string>com.smokin1337.smartlpm/settingschanged</string>
+        </dict>
+		<dict>
+            <key>cell</key>
+            <string>PSSwitchCell</string>
+            <key>label</key>
+            <string>Low Power While Locked</string>
+            <key>id</key>
+            <string>lockedOn</string>
+            <key>defaults</key>
+            <string>com.smokin1337.smartlpm</string>
+            <key>key</key>
+            <string>lockedOn</string>
+            <key>default</key>
+            <false/>
+            <key>PostNotification</key>
+            <string>com.smokin1337.smartlpm/settingschanged</string>
+        </dict>
+		<dict>
+            <key>cell</key>
+            <string>PSSwitchCell</string>
+            <key>label</key>
+            <string>Auto Low Power Mode</string>
+            <key>id</key>
+            <string>autoOn</string>
+            <key>defaults</key>
+            <string>com.smokin1337.smartlpm</string>
+            <key>key</key>
+            <string>autoOn</string>
+            <key>default</key>
+            <false/>
+            <key>PostNotification</key>
+            <string>com.smokin1337.smartlpm/settingschanged</string>
+        </dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Set Battery Level For Low Power Mode:</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<string>30</string>
+			<key>min</key>
+			<string>0</string>
+			<key>max</key>
+			<string>100</string>
+			<key>isSegmented</key>
+            <true/>
+            <key>segmentCount</key>
+             <integer>20</integer>
+			<key>showValue</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.smokin1337.smartlpm</string>
+			<key>key</key>
+			<string>userPref</string>
+			<key>label</key>
+			<string>Enable</string>
+			<key>PostNotification</key>
+			<string>com.smokin1337.smartlpm/settingschanged</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>SmartLPM</string>
+</dict>
+</plist>
