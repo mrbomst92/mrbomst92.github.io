@@ -1,10 +1,10 @@
-Package: net.winneonsword.package
-Name: Test Package
+Package: net.mrbom.package
+Name: mrbom
 Version: 1.0
 Architecture: iphoneos-arm
-Description: This is a test package from /u/WinneonSword's tutorial repository!
-Depiction: http://repo.winneonsword.net/packages/package.html
-Homepage: http://repo.winneonsword.net
+Description: đang test bởi thế anh!
+Depiction: http://mrbomst92.github.io
+Homepage: http://mrbomst92.github.io
 Maintainer: Jesse Bryan <winneonsword@gmail.com>
 Author: Jesse Bryan <winneonsword@gmail.com>
 Section: Themes
