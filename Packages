@@ -13,10 +13,10 @@ Description: A smarter low power mode. Turn low power mode on automatically at t
 Author: mrbomst92
 Name: SmartLPM
 
-Package: net.pikabu.mrbom
+Package: net.pikabu.mrbomst92
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: Kieran Wilson 
+Maintainer: Kieran Wilson
 Filename: /Pikabu.deb
 Size: 246762
 MD5sum: c72b8757925a2b47a67ca09d80f91a95
