@@ -14,16 +14,17 @@ Description: A smarter low power mode. Turn low power mode on automatically at t
 Author: mrbomst
 Name: SmartLPM
 
-Package: com.mrbom.Pikabu
+Package: net.pikabu.mrbomst92
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: mrbomst
+Maintainer: Kieran Wilson
 Filename: debs/Pikabu/Pikabu.deb
-Size: 246762
-MD5sum: c72b8757925a2b47a67ca09d80f91a95
-SHA1: f796cac533c995e83eef09bf72378498a91bb10b
-SHA256: 50896a1408c6d90e4fd631d12dbbf4cdda5eb4ab9ce6fffbee7d41bd9e687cfd
+Size: 246800
+MD5sum: ab79ba1cc4d32e2708bdd425e46eb5c0
+SHA1: a9f34bc1ef642efa212d1b529c82e79858542f71
+SHA256: e62f6581eca697be3f14d4b39190e5528e4e3e9b59687376de233ff5feb0e679
 Section: Tweaks
-Description: Adds minimalistc volume hud to iPX or devices with Fluidity, LittleX, or FluidEnabler. Will remove this once the actual developer uploads his to a repo
-Author: mrbomst
-Name: Pikabu
+Homepage: https://twitter.com/theanhst92
+Description: Adds minimalistc volume hud to iPX or devices with Fluidity, LittleX, or FluidEnabler. Will remove this once the actual developer uploads his to a repo.
+Author: Jeffrey Chan
+Name: Pikabu Lite
