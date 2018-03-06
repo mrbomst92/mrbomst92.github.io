@@ -1,8 +1,8 @@
-Origin: Kiran Patil's Repo
-Label: imkpatil
+Origin: A Mrbom's Repo
+Label: Mrbom's
 Suite: stable
 Version: 1.0
-Codename: imkpatil
+Codename: Mrbom
 Architectures: iphoneos-arm
 Components: main
 Description: Tweaks from imkpatil
