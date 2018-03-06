@@ -4,8 +4,8 @@ Version: 1.0.1
 Size: 246800
 Architecture: iphoneos-arm
 Description: Adds minimalistc volume hud to iPX or devices with Fluidity, LittleX, or FluidEnabler. Will remove this once the actual developer uploads his to a repo.
-Maintainer: Kieran Wilson
-Author: Jeffrey Chan
+Maintainer: Mr bờm <ios.appcrack@gmail.com>
+Author: Mr bờm <ios.appcrack@gmail.com>
 Section: Tweaks
 MD5sum: ab79ba1cc4d32e2708bdd425e46eb5c0
 SHA1sum: a9f34bc1ef642efa212d1b529c82e79858542f71
