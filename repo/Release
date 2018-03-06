@@ -1,9 +1,0 @@
-Origin: A Mrbom's Repo
-Label: Mrbom's
-Suite: stable
-Version: 1.0
-Codename: Mrbom
-Architectures: iphoneos-arm
-Components: main
-Description: Tweaks from imkpatil
-Icon: file://CydiaIcon.png

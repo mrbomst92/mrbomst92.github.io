@@ -1,0 +1,9 @@
+Origin: smokin1337's Repo
+Label: smokin1337's Repo
+Suite: stable
+Version: 1.0
+Codename: smokin1337
+Architectures: iphoneos-arm
+Components: main
+Description: smokin1337's Cydia Repo
+MD5Sum:
