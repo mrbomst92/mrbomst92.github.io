@@ -1,7 +1,7 @@
 Package: com.imkpatil.letmeknow
 Version: 0.0.9-1+debug
 Architecture: iphoneos-arm
-Maintainer: Kiran Patil
+Maintainer: Mr Bom
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.letmeknow_0.0.9-1+debug_iphoneos-arm.deb
@@ -11,14 +11,14 @@ SHA1: a2f97401dfd1c294ebe6898ad65ce9b2d951973f
 SHA256: 74c174e1ffcde52fe80a1bd558950475f7056a2818e510ee7b325cc5d7b0944c
 Section: Tweaks
 Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
-Author: Kiran Patil
+Author: Mr Bom
 Depiction: https://imkpatil.github.io/repo/depiction/LetMeKnow/index.html
 Name: LetMeKnow
 
 Package: com.imkpatil.spotcc
 Version: 0.0.9-1+debug
 Architecture: iphoneos-arm
-Maintainer: Kiran Patil
+Maintainer: Mr Bom
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.spotcc_0.0.9-1+debug_iphoneos-arm.deb
@@ -28,7 +28,7 @@ SHA1: 44af51f859a50c3b62e3c2a5d21a5db22ece6d0a
 SHA256: 845ebab777148b94a55e7c3b87beb6792a49a1ba3360f4f9ffa17a5b96f71e57
 Section: Tweaks
 Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
-Author: Kiran Patil
+Author: Mr Bom
 Depiction: https://imkpatil.github.io/repo/depiction/SpotCC/index.html
 Name: SpotCC
 
@@ -49,3 +49,16 @@ Author: Kiran Patil
 Depiction: https://imkpatil.github.io/repo/depiction/SpotClearOnClose/index.html
 Name: SpotClearOnClose
 
+Package: com.mrbom.Pikabu
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Mr Bom <ios.appcrack@gmail.com>
+Filename: /Pikabu.deb
+Size: 246762
+MD5sum: c72b8757925a2b47a67ca09d80f91a95
+SHA1: f796cac533c995e83eef09bf72378498a91bb10b
+SHA256: 50896a1408c6d90e4fd631d12dbbf4cdda5eb4ab9ce6fffbee7d41bd9e687cfd
+Section: Tweaks
+Description: Adds minimalistc volume hud to iPX or devices with Fluidity, LittleX, or FluidEnabler. Will remove this once the actual developer uploads his to a repo
+Author: Mr Bom <ios.appcrack@gmail.com>
+Name: Pikabu
