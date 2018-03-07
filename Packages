@@ -106,7 +106,7 @@ Size: 2562
 MD5sum: 707b4823a5ae6814089b0735e68436fd
 SHA1: 8b2ce5fb5c26bfbd819fbbd7709a6bf70b2c5e57
 SHA256: 14941271079f33fe820a4ee5993db063c0ffaa6a3d5ade023938c9981ee7f810
-Section: Tweaks
+Section: hacks
 Description: Hack vip ứng dụng Aphim
 Author: mrbomst92
 Name: Hack Vip Aphim
