@@ -11,3 +11,17 @@ MD5sum: ab79ba1cc4d32e2708bdd425e46eb5c0
 SHA1sum: a9f34bc1ef642efa212d1b529c82e79858542f71
 SHA256sum: e62f6581eca697be3f14d4b39190e5528e4e3e9b59687376de233ff5feb0e679
 Filename: debs//Pikabu.deb
+
+Package: net.lienquan.mrbomst92
+Name: Hack Lien Quan
+Version: 1.0
+Size: 1539070
+Architecture: iphoneos-arm
+Description: Hack mini map lienquan. (fixed)
+Maintainer: Mrbomst92 <ios.appcrack@gmail.com>
+Author: Mrbomst92 <ios.appcrack@gmail.com>
+Section: Hack
+MD5sum: f01ed8d54c5eb3d64a9f1a0d5b1f4460
+SHA1sum: f11d092c2dffba49ab877ec90c4467cc21fe1470
+SHA256sum: dfc5aff58d661bdcd8a2d2228d3bcfd2ed02082995b1eb95d95aa62b97502916
+Filename: debs//LIENQUAN.deb
