@@ -71,7 +71,7 @@ Filename: debs//littlex_1.3.4.deb
 Package: net.letmekonw.mrbomst92
 Name: LetMeKnow
 Version: 1.1.0-2
-Size: 212
+Size: 23100
 Architecture: iphoneos-arm
 Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
 Maintainer: Mrbomst92 <ios.appcrack@gmail.com>
@@ -88,7 +88,7 @@ Icon: https://imkpatil.github.io/repo/depiction/LetMeKnow/Screenshots/Tweakicon.
 Package: net.spotcc.mrbomst92
 Name: SpotCC
 Version: 0.0.9-1+debug
-Size: 120
+Size: 3382
 Architecture: iphoneos-arm
 Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
 Maintainer: Mrbomst92 <ios.appcrack@gmail.com>
