@@ -25,3 +25,17 @@ MD5sum: f01ed8d54c5eb3d64a9f1a0d5b1f4460
 SHA1sum: f11d092c2dffba49ab877ec90c4467cc21fe1470
 SHA256sum: dfc5aff58d661bdcd8a2d2228d3bcfd2ed02082995b1eb95d95aa62b97502916
 Filename: debs//LIENQUAN.deb
+
+Package: net.filza.mrbomst92
+Name: Filza Electracuted
+Version: 1.0.3
+Size: 9370140
+Architecture: iphoneos-arm
+Description: Filza for Electra jailbreak
+Maintainer: Mrbomst92 <ios.appcrack@gmail.com>
+Author: Mrbomst92 <ios.appcrack@gmail.com>
+Section: System
+MD5sum: f0b01e14e2718c59b579bc425e0e17d2
+SHA1sum: 249f6f88b8e3f21c3d750388c4d5f03e30cf7e63
+SHA256sum: 77d8e1335eba26f818ffc9d6c3540a22e396df68d9dc72cd76eb97443ccb2db3
+Filename: debs//FilzaElectracuted.deb
