@@ -69,31 +69,31 @@ SHA1sum: 4946849a0468a642af5de45913281977fdb79974
 SHA256sum: e44a741cc8a68de5fbe7118ee030a22d660ba134811cbc5c9599873ed3a0bf3b
 Filename: debs//littlex_1.3.4.deb
 
-Package: net.letmeknow.mrbomst92
-Name: LetMeKnow
-Version: 1.1.0-2
-Size: 23060
-Architecture: iphoneos-arm
-Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
-Maintainer: Mrbomst92 <ios.appcrack@gmail.com>
-Author: Kiran Patil
-Section: Tweaks
-MD5sum: 1be5b47fd482f4eec976ba47dc329bc7
-SHA1sum: 46f8187bd78de10c159add8dcf0bf37043e7acc8
-SHA256sum: a424bacfa01ae9d86d7a718633278d1017cc98ffbde9a1418b14b9e592f0b5ed
-Filename: debs//letmeknow_1.1.0-2.deb
-Depends: mobilesubstrate
 
-Package: net.spotcc.mrbomst92
-Name: SpotCC
-Version: 0.0.9-1+debug
-Size: 3404
+Package: com.mrbomst92.letmeknow
+Version: 1.1.0-2
 Architecture: iphoneos-arm
-Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
-Maintainer: Mrbomst92 <ios.appcrack@gmail.com>
-Author: Kiran Patil
+Maintainer: mrbomst92 <ios.appcrack@gmail.com>
+Filename: debs//.letmeknow_1.1.0-2_iphoneos-arm.deb
+Size: 23100
+MD5sum: 6af842396775ddd09c239cb546de8194
+SHA1: 86d73cf44adf3b5002eaf1273fe1cba05fc74463
+SHA256: d42825e62d311f705d2599ef25cd432ae9658cda40293746f1deeee76ce7f795
 Section: Tweaks
-MD5sum: be59203a7995721947475ede5c553b2c
-SHA1sum: 177960cd6bb554f5bde33f1c42d7fd0719f50fcd
-SHA256sum: 35952d6e315728cc0debbf7dfb035e15da771b93b6e8601a5cbcdafdc7a5db5a
-Filename: debs//spotcc_0.0.9-1.deb
+Description: bật chế độ rung khi kết nối cuộc gọi
+Author: Kiran Patil
+Name: LetMeKnow
+
+Package: com.mrbomst92.spotcc
+Version: 0.0.9-1
+Architecture: iphoneos-arm
+Maintainer: mrbomst92 <ios.appcrack@gmail.com
+Filename: debs//spotcc_0.0.9-1+debug_iphoneos-arm.deb
+Size: 3382
+MD5sum: b505d066249a50d07083b388c87ab55d
+SHA1: 44af51f859a50c3b62e3c2a5d21a5db22ece6d0a
+SHA256: 845ebab777148b94a55e7c3b87beb6792a49a1ba3360f4f9ffa17a5b96f71e57
+Section: Tweaks
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Author: Kiran Patil
+Name: SpotCC
