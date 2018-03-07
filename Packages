@@ -68,7 +68,7 @@ SHA1sum: 4946849a0468a642af5de45913281977fdb79974
 SHA256sum: e44a741cc8a68de5fbe7118ee030a22d660ba134811cbc5c9599873ed3a0bf3b
 Filename: debs//littlex_1.3.4.deb
 
-Package: com.mrbomst92.letmeknow
+Package: com.letmeknow.mrbomst92
 Name: LetMeKnow
 Version: 1.1.0-2
 Size: 23100
@@ -82,7 +82,7 @@ SHA1: 86d73cf44adf3b5002eaf1273fe1cba05fc74463
 SHA256: d42825e62d311f705d2599ef25cd432ae9658cda40293746f1deeee76ce7f795
 Filename: debs//.letmeknow_1.1.0-2_iphoneos-arm.deb
 
-Package: com.mrbomst92.spotcc
+Package: com.spotcc.mrbomst92
 Version: 0.0.9-1
 Architecture: iphoneos-arm
 Maintainer: mrbomst92 <ios.appcrack@gmail.com
@@ -96,7 +96,7 @@ Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScr
 Author: Kiran Patil
 Name: SpotCC
 
-Package: com.mrbomst92.aphimvip
+Package: com.aphimvip.mrbomst92
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: mrbomst92 <ios.appcrack@gmail.com
@@ -110,7 +110,7 @@ Description: Hack vip ứng dụng Aphim
 Author: mrbomst92
 Name: Hack Vip Aphim
 
-Package: com.mrbomst92.picartvip
+Package: com.picartvip.mrbomst92
 Version: 0.0.1-3
 Architecture: iphoneos-arm
 Maintainer: mrbomst92 <ios.appcrack@gmail.com
