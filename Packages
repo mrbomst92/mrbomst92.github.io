@@ -41,8 +41,8 @@ SHA256sum: 77d8e1335eba26f818ffc9d6c3540a22e396df68d9dc72cd76eb97443ccb2db3
 Filename: debs//FilzaElectracuted.deb
 
 Package: net.rocketbootstrap.mrbomst92
-Name: rocketbootstrap_1.0.6_beta1
-Version: 0.0.1
+Name: rocketbootstrap
+Version: 1.0.6_beta1
 Size: 29472
 Architecture: iphoneos-arm
 Description: supports ios 11
