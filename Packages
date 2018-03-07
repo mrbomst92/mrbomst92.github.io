@@ -39,3 +39,19 @@ MD5sum: f0b01e14e2718c59b579bc425e0e17d2
 SHA1sum: 249f6f88b8e3f21c3d750388c4d5f03e30cf7e63
 SHA256sum: 77d8e1335eba26f818ffc9d6c3540a22e396df68d9dc72cd76eb97443ccb2db3
 Filename: debs//FilzaElectracuted.deb
+
+Package: net.crackicleaner.mrbomst92
+Name: Crack iCleaner Pro
+Version: 1.0
+Size: 114186
+Architecture: iphoneos-arm
+Description: crack icleaner pro for ios 11.x.x
+Maintainer: Mrbomst92 <ios.appcrack@gmail.com>
+Author: Mrbomst92 <ios.appcrack@gmail.com>
+Section: Tweaks
+MD5sum: 25001784cfb5d66b66cce9671980de2a
+SHA1sum: c99ec4044cff187efd48532a5d3d6f9d43078df8
+SHA256sum: b17c0184462413f296cbe861d192964d20705c4c9b56643e150c73e83f294c43
+Filename: debs//Crack iCleaner Pro.deb
+
+
