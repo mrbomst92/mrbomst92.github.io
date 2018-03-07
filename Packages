@@ -11,7 +11,7 @@ MD5sum: ab79ba1cc4d32e2708bdd425e46eb5c0
 SHA1sum: a9f34bc1ef642efa212d1b529c82e79858542f71
 SHA256sum: e62f6581eca697be3f14d4b39190e5528e4e3e9b59687376de233ff5feb0e679
 Filename: debs//Pikabu.deb
-Icon: file:///images/tweaks.png
+Icon: https:mrbomst92.github.io/images/tweaks.png
 
 Package: net.lienquan.mrbomst92
 Name: Hack Lien Quan
@@ -54,7 +54,7 @@ MD5sum: 604f41158a604fc3b1aa47731a4995b3
 SHA1sum: c5fb7d1e5479a0ee1fa1356fee448a6280f9f439
 SHA256sum: edacda8d619a918f9375621bb8718ad6d80862368be2b4e502cb12e613cb0ab6
 Filename: debs//rocketbootstrap_1.0.6_beta1.deb
-Icon: file:///images/tweaks.png
+Icon: https:mrbomst92.github.io/images/tweaks.png
 
 Package: net.littlex.mrbomst92
 Name: LittleX
@@ -69,7 +69,7 @@ MD5sum: a744fab4541a261cfab665bfa8106eb0
 SHA1sum: 4946849a0468a642af5de45913281977fdb79974
 SHA256sum: e44a741cc8a68de5fbe7118ee030a22d660ba134811cbc5c9599873ed3a0bf3b
 Filename: debs//littlex_1.3.4.deb
-Icon: file:///images/tweaks.png
+Icon: https:mrbomst92.github.io/images/tweaks.png
 
 Package: net.letmeknow.mrbomst92
 Name: LetMeKnow
@@ -85,7 +85,7 @@ SHA1sum: 46f8187bd78de10c159add8dcf0bf37043e7acc8
 SHA256sum: a424bacfa01ae9d86d7a718633278d1017cc98ffbde9a1418b14b9e592f0b5ed
 Filename: debs//letmeknow_1.1.0-2.deb
 Depends: mobilesubstrate
-Icon: file:///images/tweaks.png
+Icon: https:mrbomst92.github.io/images/tweaks.png
 
 
 Package: net.spotcc.mrbomst92
@@ -102,4 +102,4 @@ SHA1sum: 177960cd6bb554f5bde33f1c42d7fd0719f50fcd
 SHA256sum: 35952d6e315728cc0debbf7dfb035e15da771b93b6e8601a5cbcdafdc7a5db5a
 Filename: debs//spotcc_0.0.9-1.deb
 Depends: mobilesubstrate
-Icon: file:///images/tweaks.png
+Icon: https:mrbomst92.github.io/images/tweaks.png
