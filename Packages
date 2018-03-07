@@ -54,4 +54,16 @@ SHA1sum: c99ec4044cff187efd48532a5d3d6f9d43078df8
 SHA256sum: b17c0184462413f296cbe861d192964d20705c4c9b56643e150c73e83f294c43
 Filename: debs//Crack iCleaner Pro.deb
 
-
+Package: net.littlex.mrbomst92
+Name: LittleX
+Version: 1.3.4
+Size: 26748
+Architecture: iphoneos-arm
+Description: Add features of iPhone X to all legacy devices that do not support iOS 11
+Maintainer: Mrbomst92 <ios.appcrack@gmail.com>
+Author: Mrbomst92 <ios.appcrack@gmail.com>
+Section: Tweaks
+MD5sum: a744fab4541a261cfab665bfa8106eb0
+SHA1sum: 4946849a0468a642af5de45913281977fdb79974
+SHA256sum: e44a741cc8a68de5fbe7118ee030a22d660ba134811cbc5c9599873ed3a0bf3b
+Filename: debs//littlex_1.3.4.deb
