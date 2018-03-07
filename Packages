@@ -71,18 +71,18 @@ Filename: debs//littlex_1.3.4.deb
 
 
 Package: com.mrbomst92.letmeknow
+Name: LetMeKnow
 Version: 1.1.0-2
-Architecture: iphoneos-arm
-Maintainer: mrbomst92 <ios.appcrack@gmail.com>
-Filename: debs//.letmeknow_1.1.0-2_iphoneos-arm.deb
 Size: 23100
+Architecture: iphoneos-arm
+Description: bật chế độ rung khi kết nối cuộc gọi
+Maintainer: mrbomst92 <ios.appcrack@gmail.com>
+Author: Kiran Patil
+Section: Tweaks
 MD5sum: 6af842396775ddd09c239cb546de8194
 SHA1: 86d73cf44adf3b5002eaf1273fe1cba05fc74463
 SHA256: d42825e62d311f705d2599ef25cd432ae9658cda40293746f1deeee76ce7f795
-Section: Tweaks
-Description: bật chế độ rung khi kết nối cuộc gọi
-Author: Kiran Patil
-Name: LetMeKnow
+Filename: debs//.letmeknow_1.1.0-2_iphoneos-arm.deb
 
 Package: com.mrbomst92.spotcc
 Version: 0.0.9-1
