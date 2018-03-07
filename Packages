@@ -75,7 +75,7 @@ Name: LetMeKnow
 Version: 1.1.0-2
 Size: 23100
 Architecture: iphoneos-arm
-Description: bật chế độ rung khi kết nối cuộc gọi
+Description: Bật chế độ rung khi kết nối cuộc gọi
 Maintainer: mrbomst92 <ios.appcrack@gmail.com>
 Author: Kiran Patil
 Section: Tweaks
