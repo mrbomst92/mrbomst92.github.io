@@ -40,19 +40,19 @@ SHA1sum: 249f6f88b8e3f21c3d750388c4d5f03e30cf7e63
 SHA256sum: 77d8e1335eba26f818ffc9d6c3540a22e396df68d9dc72cd76eb97443ccb2db3
 Filename: debs//FilzaElectracuted.deb
 
-Package: 
-Name:
-Version: 
-Size: 
+Package: net.rocketbootstrap.mrbomst92
+Name: rocketbootstrap_1.0.6_beta1
+Version: 0.0.1
+Size: 29472
 Architecture: iphoneos-arm
-Description: 
+Description: supports ios 11
 Maintainer: Mrbomst92 <ios.appcrack@gmail.com>
 Author: Mrbomst92 <ios.appcrack@gmail.com>
 Section: Tweaks
-MD5sum: 
-SHA1sum: 
-SHA256sum: 
-Filename: debs//
+MD5sum: 604f41158a604fc3b1aa47731a4995b3
+SHA1sum: c5fb7d1e5479a0ee1fa1356fee448a6280f9f439
+SHA256sum: edacda8d619a918f9375621bb8718ad6d80862368be2b4e502cb12e613cb0ab6
+Filename: debs//rocketbootstrap_1.0.6_beta1.deb
 
 Package: net.littlex.mrbomst92
 Name: LittleX
