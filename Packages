@@ -46,8 +46,8 @@ Version: 1.0.6_beta1
 Size: 29472
 Architecture: iphoneos-arm
 Description: supports ios 11
-Maintainer: Mrbomst92 <ios.appcrack@gmail.com>
-Author: Mrbomst92 <ios.appcrack@gmail.com>
+Maintainer: Mrbomst92<ios.appcrack@gmail.com>
+Author: Ryan Petrich <ios.appcrack@gmail.com>
 Section: Tweaks
 MD5sum: 604f41158a604fc3b1aa47731a4995b3
 SHA1sum: c5fb7d1e5479a0ee1fa1356fee448a6280f9f439
