@@ -98,7 +98,6 @@ MD5sum: b505d066249a50d07083b388c87ab55d
 SHA1sum: 44af51f859a50c3b62e3c2a5d21a5db22ece6d0a
 SHA256sum: 845ebab777148b94a55e7c3b87beb6792a49a1ba3360f4f9ffa17a5b96f71e57
 Filename: debs//spotcc_0.0.9-1+debug_iphoneos-arm.deb
-Depiction: https://imkpatil.github.io/repo/depiction/SpotCC/index.html
 Depends: mobilesubstrate
 
 
