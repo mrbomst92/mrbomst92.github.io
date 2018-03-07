@@ -47,13 +47,13 @@
 /* Features */
 
 	.features li {
-		width: 29%;
+		width: 59%;
 	}
 
 /* Footer */
 
 	#footer > * {
-		width: 50%;
+		width: 80%;
 		margin-left: 0;
 	}
 
