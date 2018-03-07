@@ -97,7 +97,7 @@ Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScr
 Author: Kiran Patil
 Name: SpotCC
 
-Package: com.mrbomst92.spotcc
+Package: com.mrbomst92.aphimvip
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: mrbomst92 <ios.appcrack@gmail.com
