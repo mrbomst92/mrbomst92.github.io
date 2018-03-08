@@ -67,3 +67,17 @@ Section: Tweaks (Hack)
 Description: hack vip app aphim
 Author: mrbomsr92
 Name: Hack Vip aphim
+
+Package: com.mrbomst92.spotcc
+Version: 0.0.9-1
+Architecture: iphoneos-arm
+Maintainer: mrbomst92 <ios.appcrack@gmail.com>
+Filename: debs//spotcc_0.0.9-1.deb
+Size: 3432
+MD5sum: 376da27bd1ed48135997619352f15dfd
+SHA1: 318bce800ecc8be61538f3a1cf137848c23929ce
+SHA256: 7f51490252f41ea7821cb2f0107c73fcb5378df04c530481f6eed811569ae658
+Section: Tweaks
+Description: Tweak to bring up ControlCenter instead of ...
+Author: Kiran Patil <ios.appcrack@gmail.com>
+Name: SpotCC
