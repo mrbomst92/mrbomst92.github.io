@@ -39,3 +39,17 @@ MD5sum: a744fab4541a261cfab665bfa8106eb0
 SHA1sum: 4946849a0468a642af5de45913281977fdb79974
 SHA256sum: e44a741cc8a68de5fbe7118ee030a22d660ba134811cbc5c9599873ed3a0bf3b
 Filename: debs//littlex_1.3.4.deb
+
+Package: com.mrbomst92.letmeknow
+Name: LetMeKnow
+Version: 1.1.0-2
+Size: 23164
+Architecture: iphoneos-arm
+Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Maintainer: Mrbomst92
+Author: Kiran Patil
+Section: Tweaks
+MD5sum: 289cebb335389df6f2fed40dcab1f62a
+SHA1: c7557c07042ac4977c3ddcce02c2b43e09dbfcc3
+SHA256: 415d073871692adfda2d4b55802a9ea046be6f00e44db824e2a7d2772b7bb7f6
+Filename: debs//letmeknow_1.1.0-2.deb
