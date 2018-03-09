@@ -54,20 +54,6 @@ SHA1: c7557c07042ac4977c3ddcce02c2b43e09dbfcc3
 SHA256: 415d073871692adfda2d4b55802a9ea046be6f00e44db824e2a7d2772b7bb7f6
 Filename: debs//letmeknow_1.1.0-2.deb
 
-Package: com.mrbomst92.hackaphim
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Mrbomst92
-Filename: debs//AphimVip.deb
-Size: 2568
-MD5sum: 7f7b4befcb72bd89e8364fb0dd2ddc44
-SHA1: 9655190409ef6465a89a81591c1c2043b616ff45
-SHA256: 27ce5fc2bb9609c2edd0b9f36bb315b01d31bfae8565f5b016d1bf9611655195
-Section: Tweaks (Hack)
-Description: hack vip app aphim
-Author: mrbomsr92
-Name: Hack Vip aphim
-
 Package: com.mrbomst92.spotcc
 Version: 0.0.9-1
 Architecture: iphoneos-arm
@@ -81,3 +67,17 @@ Section: Tweaks
 Description: Tweak to bring up ControlCenter instead of ...
 Author: Kiran Patil <ios.appcrack@gmail.com>
 Name: SpotCC
+
+Package: com.mrbomst92.hackaphim
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Mrbomst92
+Filename: debs//AphimVip.deb
+Size: 2582
+MD5sum: 2a400466446d6dcc2394be88293fecae
+SHA1: 7a74d90bf2acd93beb41fc5fa88230ac64973881
+SHA256: 49788d019dab27b27de2134021464dd1ccfb5edea857714c9483d21773b08bbd
+Section: Tweaks
+Description: hack vip app aphim
+Author: mrbomsr92
+Name: Hack Vip aphim
