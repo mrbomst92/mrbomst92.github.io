@@ -40,44 +40,44 @@ SHA1sum: 4946849a0468a642af5de45913281977fdb79974
 SHA256sum: e44a741cc8a68de5fbe7118ee030a22d660ba134811cbc5c9599873ed3a0bf3b
 Filename: debs//littlex_1.3.4.deb
 
-Package: com.mrbomst92.letmeknow
-Name: LetMeKnow
-Version: 1.1.0-2
-Size: 23164
+Package: com.mrbomst92.hackaphim
+Version: 1.0
 Architecture: iphoneos-arm
-Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
 Maintainer: Mrbomst92
-Author: Kiran Patil
+Filename: debs//com.mrbomst92.aphimvip_1.0_iphoneos-arm.deb
+Size: 2600
+MD5sum: 6b808c55ab1adc6ce740448bea09ab13
+SHA1: 888f8628041b59a22c187b63bbbc0aa66c2a2991
+SHA256: 02d17141a5e14fb20a6c6399c14e01baa4841febe3be97feeff3caff01476a25
+Section: Tweaks (Hack)
+Description: Hack vip ứng dụng aphim
+Author: mrbomst92
+Name: Hack Vip aphim
+
+Package: com.mrbomst92.letmeknow
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Mrbomst92 <ios.appcrack@gmail.com>
+Filename: debs//com.mrbomst92.letmeknow_1.2-1_iphoneos-arm.deb
+Size: 23694
+MD5sum: cfa84e4b05dea094a980e6b9d01ae5a2
+SHA1: a2e50b00d6803b8c53ce61cec4b11f96954c7564
+SHA256: 8fb601a3d2f80188f0608c69d4f2d2135e8856b71d5cd9e4988b9b40b985163d
 Section: Tweaks
-MD5sum: 289cebb335389df6f2fed40dcab1f62a
-SHA1: c7557c07042ac4977c3ddcce02c2b43e09dbfcc3
-SHA256: 415d073871692adfda2d4b55802a9ea046be6f00e44db824e2a7d2772b7bb7f6
-Filename: debs//letmeknow_1.1.0-2.deb
+Description: play vibration when call connect/disconnect
+Author: Kiran Patil <patilkiran08@gmail.com>
+Name: LetMeKnow
 
 Package: com.mrbomst92.spotcc
-Version: 0.0.9-1
+Version: 0.0.9-1+debug
 Architecture: iphoneos-arm
-Maintainer: mrbomst92 <ios.appcrack@gmail.com>
-Filename: debs//spotcc_0.0.9-1.deb
-Size: 3432
-MD5sum: 376da27bd1ed48135997619352f15dfd
-SHA1: 318bce800ecc8be61538f3a1cf137848c23929ce
-SHA256: 7f51490252f41ea7821cb2f0107c73fcb5378df04c530481f6eed811569ae658
+Maintainer: Mrbomst92 <ios.appcrack@gmail.com>
+Filename: debs//com.mtbomst92.spotcc_0.0.9-1+debug_iphoneos-arm.deb
+Size: 3426
+MD5sum: bdc2cb45e277f9fd07cfa3b74d488348
+SHA1: c8ee2a91893bb9d4ada4c08c45f72dee80f47811
+SHA256: 20fa47f5b52119443349e5dd5e6d6943897a58c57845201c790d76ea8e27f583
 Section: Tweaks
-Description: Tweak to bring up ControlCenter instead of ...
-Author: Kiran Patil <ios.appcrack@gmail.com>
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Author: Kiran Patil <patilkiran08@gmail.com>
 Name: SpotCC
-
-Package: com.mrbomst92.hackaphim
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Mrbomst92
-Filename: debs//AphimVip.deb
-Size: 2582
-MD5sum: 2a400466446d6dcc2394be88293fecae
-SHA1: 7a74d90bf2acd93beb41fc5fa88230ac64973881
-SHA256: 49788d019dab27b27de2134021464dd1ccfb5edea857714c9483d21773b08bbd
-Section: Tweaks
-Description: hack vip app aphim
-Author: mrbomsr92
-Name: Hack Vip aphim
