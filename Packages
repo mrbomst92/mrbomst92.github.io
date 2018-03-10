@@ -40,7 +40,7 @@ SHA1sum: 4946849a0468a642af5de45913281977fdb79974
 SHA256sum: e44a741cc8a68de5fbe7118ee030a22d660ba134811cbc5c9599873ed3a0bf3b
 Filename: debs//littlex_1.3.4.deb
 
-Package: com.mrbomst92.hackaphim
+Package: com.mrbomst92.aphimvip
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Mrbomst92
