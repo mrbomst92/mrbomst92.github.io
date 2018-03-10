@@ -41,7 +41,7 @@ SHA256sum: e44a741cc8a68de5fbe7118ee030a22d660ba134811cbc5c9599873ed3a0bf3b
 Filename: debs//littlex_1.3.4.deb
 
 Package: com.mrbomst92.aphimvip
-Version: 1.0
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Mrbomst92
 Filename: debs//com.mrbomst92.aphimvip_1.0_iphoneos-arm.deb
