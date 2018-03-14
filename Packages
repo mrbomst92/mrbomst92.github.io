@@ -109,3 +109,20 @@ Section: Tweaks
 Description: Graviboard alternative
 Author: mrbomst <ios.appcrack@gmail.com>
 Name: Gravity
+
+Package: com.imkpatil.spotcc
+Version: 0.0.9-1+debug
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotcc_0.0.9-1+debug_iphoneos-arm.deb
+Size: 3382
+MD5sum: b505d066249a50d07083b388c87ab55d
+SHA1: 44af51f859a50c3b62e3c2a5d21a5db22ece6d0a
+SHA256: 845ebab777148b94a55e7c3b87beb6792a49a1ba3360f4f9ffa17a5b96f71e57
+Section: Tweaks
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Author: Kiran Patil
+Depiction: https://mrbomst.github.io/depiction/SpotCC/index.html
+Name: SpotCC
