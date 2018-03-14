@@ -95,3 +95,17 @@ Section: Tweaks (Hack)
 Description: Hack Picsart
 Author: Mrbomst92
 Name: Picsart plus
+
+Package: com.mrbomst.gravity
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: mrbomst
+Filename: /com.mrbomst.gravity_0.5_iphoneos-arm.deb
+Size: 102848
+MD5sum: 273e4e7dcf3f1dfd89ea6377b86b6541
+SHA1: 5c9c3ebc73c8dd930bf9547e6ddae33acfc633d3
+SHA256: b2537146d1a63b449d466f0f3d77964a78a9ca6ad79bf72e8f96639294f18d83
+Section: Tweaks
+Description: Graviboard alternative
+Author: mrbomst <ios.appcrack@gmail.com>
+Name: Gravity
