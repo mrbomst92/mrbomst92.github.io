@@ -66,6 +66,7 @@ SHA256: 8fb601a3d2f80188f0608c69d4f2d2135e8856b71d5cd9e4988b9b40b985163d
 Section: Tweaks
 Description: play vibration when call connect/disconnect
 Author: Kiran Patil <patilkiran08@gmail.com>
+Depiction: https://mrbomst.github.io/depiction/LetMeKnow/index.html
 Name: LetMeKnow
 
 Package: com.mrbomst92.spotcc
