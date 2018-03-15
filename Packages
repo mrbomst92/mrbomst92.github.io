@@ -39,7 +39,7 @@ MD5sum: a744fab4541a261cfab665bfa8106eb0
 SHA1sum: 4946849a0468a642af5de45913281977fdb79974
 SHA256sum: e44a741cc8a68de5fbe7118ee030a22d660ba134811cbc5c9599873ed3a0bf3b
 Filename: debs//littlex_1.3.4.deb
-Depiction: https://mrbomst.github.io/depiction/LetMeKnow/index.html
+Depiction:
 
 Package: com.mrbomst92.aphimvip
 Version: 1.0.2
@@ -67,7 +67,7 @@ SHA256: 8fb601a3d2f80188f0608c69d4f2d2135e8856b71d5cd9e4988b9b40b985163d
 Section: Tweaks
 Description: play vibration when call connect/disconnect
 Author: Kiran Patil <patilkiran08@gmail.com>
-Depiction: https://mrbomst.github.io/depiction/LetMeKnow/index.html
+Depiction: https://mrbomst92.github.io/depiction/LetMeKnow/index.html
 Name: LetMeKnow
 
 Package: com.mrbomst92.spotcc
@@ -126,5 +126,5 @@ SHA256: 845ebab777148b94a55e7c3b87beb6792a49a1ba3360f4f9ffa17a5b96f71e57
 Section: Tweaks
 Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
 Author: Kiran Patil
-Depiction: https://mrbomst.github.io/depiction/SpotCC/index.html
+Depiction: https://mrbomst92.github.io/depiction/SpotCC/index.html
 Name: SpotCC
